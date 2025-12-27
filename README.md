@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou o Yago Lopes Evangelista
 
-🎯 Desenvolvedor em formação com foco em **Backend**, apaixonado por lógica, estrutura de dados e construção de sistemas.  
-💻 Atualmente estudando **Java Backend** e **Python**, aplicando o aprendizado em projetos práticos.
+🎯 Desenvolvedor em formação com foco em **Java Backend**, apaixonado por lógica, automação e construção de sistemas.  
+💻 Atualmente estudando **Java (Backend)** e **Python aplicado a macros e automações**.
 
 ---
 
 ## 🚀 Sobre mim
 - ☕ Desenvolvedor backend em evolução
-- 🌱 Estudando **Java (Backend)** e **Python**
-- 🧠 Interesse em lógica de programação, APIs e sistemas bem estruturados
-- 📚 Sempre aprendendo e aprimorando boas práticas de código
+- 🌱 Estudando **Java Backend**
+- 🤖 Utilizando **Python para macros, automações e scripts**
+- 🧠 Interesse em lógica de programação, sistemas e produtividade
 
 ---
 
@@ -18,6 +18,10 @@
 ### Backend
 <div style="display: inline_block"><br>
   <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+### Macros & Automação
+<div style="display: inline_block"><br>
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
@@ -33,19 +37,18 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YagoLopesE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLopesE&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoLopesE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLopesE&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 📌 Projetos & Estudos
-- 🔹 **Algoritmos em Java** – lógica de programação e fundamentos
-- 🔹 **Projetos Java Backend** – estruturação, organização e boas práticas
-- 🔹 **Scripts e automações em Python** – estudos e experimentos
-- 🔹 **Projetos Web** – HTML, CSS e JS como base de apoio
+- 🔹 **Java Backend** – algoritmos, lógica e estruturação de sistemas
+- 🔹 **Macros e automações em Python** – produtividade, scripts e ferramentas
+- 🔹 **Projetos Web** – base de HTML, CSS e JavaScript
 
-> 🚧 Novos projetos em desenvolvimento
+> 🚧 Em constante evolução
 
 ---
 
@@ -65,4 +68,4 @@
 
 ---
 
-⭐ *Se algum projeto te ajudou ou chamou atenção, deixa uma estrela 😉*
+⭐ *Curte automação, backend ou código limpo? Então estamos no mesmo time.*
