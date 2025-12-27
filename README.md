@@ -37,11 +37,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">  
- <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=YagoLopesE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLopesE&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YagoLopesE&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
