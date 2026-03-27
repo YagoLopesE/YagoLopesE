@@ -1,32 +1,37 @@
 # 👋 Olá, eu sou o Yago Lopes Evangelista
 
-🎯 Desenvolvedor em formação com foco em **Java Backend**, apaixonado por lógica, automação e construção de sistemas.  
-💻 Atualmente estudando **Java (Backend)** e **Python aplicado a macros e automações**.
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend+em+evolução;Focado+em+Java+e+Automações;Construindo+projetos+reais" />
+
+---
+
+🎯 Desenvolvedor em formação com foco em **Java Backend**  
+💻 Apaixonado por lógica, automação e construção de sistemas  
+🤖 Explorando **Python para automações e produtividade**
 
 ---
 
 ## 🚀 Sobre mim
-- ☕ Desenvolvedor backend em evolução
-- 🌱 Estudando **Java Backend**
-- 🤖 Utilizando **Python para macros, automações e scripts**
-- 🧠 Interesse em lógica de programação, sistemas e produtividade
+- ☕ Desenvolvedor backend em evolução  
+- 🌱 Estudando **Java Backend**  
+- 🤖 Criando **scripts e automações com Python**  
+- 🧠 Focado em lógica, sistemas e performance  
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
-### Backend
-<div style="display: inline_block"><br>
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+### 🚀 Backend
+<div style="display: inline_block">
+  <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-### Macros & Automação
-<div style="display: inline_block"><br>
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### 🤖 Automação
+<div style="display: inline_block">
+  <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-### Web (Base)
-<div style="display: inline_block"><br>
+### 🌐 Web
+<div style="display: inline_block">
   <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,26 +41,31 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YagoLopesE&theme=tokyo-night&hide_border=true" />
-</div>
-<!-- 
-<img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=YagoLopesE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLopesE&layout=compact&langs_count=8&theme=tokyonight"/>
- -->
+<p align="center">
+  <img height="180em" 
+       src="https://github-readme-stats-yago.vercel.app/api?username=YagoLopesE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+       
+  <img height="180em" 
+       src="https://github-readme-stats-yago.vercel.app/api/top-langs/?username=YagoLopesE&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
+</p>
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLopesE&layout=compact&langs_count=8&theme=tokyonight"/>
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YagoLopesE&theme=tokyonight&locale=pt_BR"/>
+</p>
+
 ---
 
 ## 📌 Projetos & Estudos
-- 🔹 **Java Backend** – algoritmos, lógica e estruturação de sistemas
-- 🔹 **Macros e automações em Python** – produtividade, scripts e ferramentas
-- 🔹 **Projetos Web** – base de HTML, CSS e JavaScript
 
-> 🚧 Em constante evolução
+- 🔹 **Java Backend** → algoritmos, lógica e estrutura de sistemas  
+- 🔹 **Automações com Python** → scripts, bots e produtividade  
+- 🔹 **Projetos Web** → HTML, CSS e JavaScript  
+
+🚧 Sempre evoluindo e construindo novos projetos  
 
 ---
 
@@ -75,4 +85,4 @@
 
 ---
 
-⭐ *Curte automação, backend ou código limpo? Então estamos no mesmo time.*
+⭐ *Curte backend, automação ou código limpo? Então estamos no mesmo time.*
